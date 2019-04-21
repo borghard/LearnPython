@@ -34,6 +34,8 @@ for i in range(3,length-2):
 print("the password is: ", end='')
 for each in passw:
     print(each, end='')
+
+print("this is to test Git")
     
         
                 
