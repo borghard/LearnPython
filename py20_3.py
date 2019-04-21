@@ -31,6 +31,9 @@ for i in range(3,length-2):
         if flag_1 == 0:
             passw.append(str1[i])
 
-print("the password is: ", str(passw))
+print("the password is: ", end='')
+for each in passw:
+    print(each, end='')
+    
         
                 
